@@ -35,3 +35,8 @@ git clone https://github.com/your-username/age-calculator.git
 
 ## ✨ Live Demo
 You can view the live version here: Demo Link 
+
+## 👨‍💻 Author
+Harsh Mishra
+GitHub: https://github.com/erharshmishra
+LinkedIn: https://www.linkedin.com/in/harshmishra8103/
