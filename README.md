@@ -22,9 +22,9 @@ On clicking the Calculate Age button, it processes the dates and displays your a
 - JavaScript (Vanilla)
 
 ## 📁 Project Structure
-├── index.html     # Main HTML file
-├── style.css      # Styling for the page
-└── script.js      # Logic to calculate age
+├── index.html     # Main HTML file <br>
+├── style.css      # Styling for the page <br>
+└── script.js      # Logic to calculate age <br>
 
 ## 📦 Getting Started
 To run the app locally:
@@ -34,9 +34,9 @@ git clone https://github.com/your-username/age-calculator.git
 - No installations or dependencies required!
 
 ## ✨ Live Demo
-You can view the live version here: Demo Link 
+You can view the live version here: Demo Link https://age-calculator-nu7n.onrender.com 
 
 ## 👨‍💻 Author
-Harsh Mishra
-GitHub: https://github.com/erharshmishra
-LinkedIn: https://www.linkedin.com/in/harshmishra8103/
+Harsh Mishra <br>
+GitHub: https://github.com/erharshmishra <br>
+LinkedIn: https://www.linkedin.com/in/harshmishra8103/ <br>
